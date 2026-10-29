@@ -1,0 +1,11 @@
+{
+  "name": "natsutech-tool",
+  "version": "1.0.0",
+  "description": "Termux visual tool - NatsuTech's | Alva'sDev",
+  "main": "natsu.js",
+  "scripts": {
+    "start": "node natsu.js"
+  },
+  "author": "NatsuTech's | Alva'sDev",
+  "license": "MIT"
+}
